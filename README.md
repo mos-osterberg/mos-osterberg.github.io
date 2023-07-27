@@ -1,2 +1,6 @@
 # mos-osterberg.github.io
-GitHub pages
+GitHub pages 
+
+foo 
+bar
+
